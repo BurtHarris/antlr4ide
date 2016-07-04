@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/jknack/antlr4ide.png?branch=master)](https://travis-ci.org/jknack/antlr4ide)
-[ ![Download](https://api.bintray.com/packages/jknack/antlr4ide/antlr4ide/images/download.png) ](https://bintray.com/jknack/antlr4ide/antlr4ide/_latestVersion)
+[![Build Status](https://travis-ci.org/Burt_Harris/antlr4ide.png?branch=master)](https://travis-ci.org/Burt_Harris/antlr4ide)
+[ ![Download](https://api.bintray.com/packages/Burt_Harris/antlr4ide/antlr4ide/images/download.png) ](https://bintray.com/jknack/antlr4ide/antlr4ide/_latestVersion)
 
 ANTLR 4 IDE
 =========
