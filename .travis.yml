@@ -2,4 +2,6 @@ language: java
 jdk:
   - openjdk7
   - openjdk6
+  - oraclejdk8  # Failing locally
+  - oraclejdk7  # Travis-ci default
 script: mvn package
