@@ -1,11 +1,6 @@
-[![Build Status](https://travis-ci.org/Burt_Harris/antlr4ide.png?branch=master)](https://travis-ci.org/Burt_Harris/antlr4ide)
-[ ![Download](https://api.bintray.com/packages/Burt_Harris/antlr4ide/antlr4ide/images/download.png) ](https://bintray.com/jknack/antlr4ide/antlr4ide/_latestVersion)
+# ANTLR 4 IDE [![Build Status](https://travis-ci.org/BurtHarris/antlr4ide.svg?branch=master)](https://travis-ci.org/BurtHarris/antlr4ide) 
 
-ANTLR 4 IDE
-=========
-
-![ANTLR 4 IDE](https://raw.github.com/jknack/antlr4ide/master/updates/screenshots/full.png)
-
+An eclipse plugin for writing grammers in ANTLR.  [![Download not available](https://api.bintray.com/packages/Burt_Harris/antlr4ide/antlr4ide/images/download.png) ](https://bintray.com/Burt_Harris/antlr4ide/antlr4ide/_latestVersion)
 
 Features
 =========
@@ -20,6 +15,7 @@ Features
 * Advanced Rule Navigation between files (F3 or Ctrl+Click over a rule)
 * Quick fixes
 
+![ANTLR 4 IDE](https://raw.github.com/jknack/antlr4ide/master/updates/screenshots/full.png)
 
 Welcome
 =========
